@@ -1,12 +1,14 @@
-# Github Preview Theme
+# iDesign Preview Theme
 
-A default Markdown preview theme for [Inkdrop](https://www.inkdrop.app/).
+A simple Markdown preview theme for [Inkdrop](https://www.inkdrop.app/).
 
- * `styles/github-markdown.less` - Styles for light UI theme
- * `styles/github-markdown-dark.less` - Styles for dark UI theme
+I love simple design of inkdrop. I just want to add more color to the preview markdown that looked and felt native on MacOS.
+I edit the theme for my personal use, but upload it if interest someone.
+This preview theme is build to work with `Vibrant Dark UI` and the acrylic transclucent background option with dark mode system enabled.
 
-## Theming code blocks
+Without iDesign theme :
 
-Highlighting code blocks is built with [CodeMirror](https://codemirror.net/demo/theme.html), and CSS selectors for styling code blocks are compatible with it.
-CSS selectors always start with `cm-`.
-You can easily import styles from [CodeMirror's theme](https://github.com/codemirror/CodeMirror/tree/master/theme).
+With iDesign theme :
+
+- `styles/github-markdown.less` - Styles for light UI theme
+- `styles/github-markdown-dark.less` - Styles for dark UI theme
