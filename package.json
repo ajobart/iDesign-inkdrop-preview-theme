@@ -6,7 +6,7 @@
   "scripts": {
     "build": "lessc styles/less/github-markdown.less ./styles/github-markdown.css && lessc styles/less/github-markdown-dark.less ./styles/github-markdown-dark.css"
   },
-  "repository": "https://github.com/ajobart/iDesign-inkdrop-theme",
+  "repository": "https://github.com/ajobart/iDesign-inkdrop-preview-theme",
   "license": "MIT",
   "styleSheets": [
     "iDesign-markdown.css",
