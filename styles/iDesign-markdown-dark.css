@@ -1,3 +1,8 @@
+/*
+iDesign theme
+https://draculatheme.com
+*/
+
 body[class*="dark-ui"] .mde-preview {
   color: rgba(255, 255, 255, 0.7);
 }
