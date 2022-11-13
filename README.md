@@ -6,10 +6,10 @@ I love simple design of inkdrop. I just wanted to add more colors to the preview
 I edit the theme for my personal use, but upload it if interest someone.
 This preview theme is build to work with `Vibrant Dark UI` and the acrylic transclucent background option with dark mode system enabled.
 
-Without iDesign theme :
-
-With iDesign theme :
-
+## Without iDesign theme :
+![before](/pictures/before.png)
+## With iDesign theme :
+![after](/pictures/after.png)
 
 ### To modify :
 - `styles/github-markdown.less` - Styles for light UI theme
