@@ -3,8 +3,8 @@
 A simple Markdown preview theme for [Inkdrop](https://www.inkdrop.app/).
 
 I love simple design of inkdrop. I just wanted to add more colors to the preview markdown that look like MacOS.
-I edit the theme for my personal use, but upload it if interest someone.
-This preview theme is build to work with `Vibrant Dark UI` and the acrylic transclucent background option with dark mode system enabled.
+I made this theme for my own use. But I'll publish it on the store when finished if users are interested.
+This preview theme is build to work with `Vibrant Dark UI` and the `acrylic transclucent` background option with dark mode system enabled.
 
 ## Without iDesign theme :
 ![before](/pictures/before.png)
